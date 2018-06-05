@@ -30,7 +30,8 @@
 	branch = cares-1_12_0
 [submodule "third_party/bloaty"]
 	path = third_party/bloaty
-	url = https://github.com/google/bloaty.git
+	url = https://github.com/lzkmylz/bloaty
+	branch = 544b238ccf0839279c019bb2dac92d204bf2455f
 [submodule "third_party/abseil-cpp"]
 	path = third_party/abseil-cpp
 	url = https://github.com/abseil/abseil-cpp
